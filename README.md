@@ -1,1 +1,1 @@
-# playwright-automation-project
+# 🎭 AutomationExercise ==> GUI Test Automation 🎭
